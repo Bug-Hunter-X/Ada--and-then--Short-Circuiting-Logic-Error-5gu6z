@@ -1,0 +1,1 @@
+This repository demonstrates a subtle but common error in Ada programming related to the use of the short-circuiting logical operator "and then".  The example shows how a seemingly correct range check can fail to produce the desired outcome due to the way "and then" evaluates boolean expressions.  The solution provides a corrected version that avoids this issue.
